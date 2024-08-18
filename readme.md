@@ -15,7 +15,7 @@
     - [ ] 10K. Acc: ``` ```
 
 - **GPT-4o-mini**
-  - [ ] GSM8k with GPT-4o-mini W/ COT. Acc: ``` ```
+  - [x] GSM8k with GPT-4o-mini W/ COT. Acc: ```0.9272```
   - [ ] GSM8k with GPT-4o-mini W/ Non-COT. Acc: ``` ```
   - [ ] GSM8k with GPT-4o-mini W/ BERT
     - [ ] 5K. Acc: ``` ```
