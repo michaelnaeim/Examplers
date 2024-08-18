@@ -1,21 +1,10 @@
-## What's Missing
-- [ ] Related Information
-- [ ] Results
-- [ ] Discussion
-- [ ] Conclusion
-- [ ] Future Work
-
-## Links
-- [Overleaf Link](https://www.overleaf.com/project/6556c5d2c63beffb0d5ca1d8)  <!-- Replace with actual link -->
-- [Code]([LatestCode-gsm8k.ipynb](https://colab.research.google.com/drive/1T1aH1maYGtT9ewOMmI50qxdpSv4ADFn-?usp=sharing))
-
 ## Experiments
 
 ### GSM8k
 - **GPT-3.5 Turbo**
   - [x] GSM8k with GPT-3.5 Turbo W/ COT. Acc: ```0.7908```
   - [ ] GSM8k with GPT-3.5 Turbo W/ Non-COT. Acc: ``` ```
-  - [ ] GSM8k with GPT-3.5 Turbo W/ BERT. Acc: ``` ```
+  - [ ] GSM8k with GPT-3.5 Turbo W/ BERT
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
   - [ ] GSM8k with GPT-3.5 Turbo W/ Embeddings
@@ -28,7 +17,7 @@
 - **GPT-4o-mini**
   - [ ] GSM8k with GPT-4o-mini W/ COT. Acc: ``` ```
   - [ ] GSM8k with GPT-4o-mini W/ Non-COT. Acc: ``` ```
-  - [ ] GSM8k with GPT-4o-mini W/ BERT. Acc: ``` ```
+  - [ ] GSM8k with GPT-4o-mini W/ BERT
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
   - [ ] GSM8k with GPT-4o-mini W/ Embeddings
@@ -40,7 +29,7 @@
 
 - **phi-3**
   - [ ] GSM8k with phi-3 W/ Non-COT. Acc: ``` ```
-  - [ ] GSM8k with phi-3 W/ BERT. Acc: ``` ```
+  - [ ] GSM8k with phi-3 W/ BERT
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
   - [ ] GSM8k with phi-3 W/ Embeddings
@@ -54,7 +43,7 @@
 - **GPT-3.5 Turbo (All)**
   - [ ] AQUA-RAT with GPT-3.5 Turbo W/ COT. Acc: ``` ```
   - [ ] AQUA-RAT with GPT-3.5 Turbo W/ Non-COT. Acc: ``` ```
-  - [ ] AQUA-RAT with GPT-3.5 Turbo W/ BERT. Acc: ``` ```
+  - [ ] AQUA-RAT with GPT-3.5 Turbo W/ BERT
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
   - [ ] AQUA-RAT with GPT-3.5 Turbo W/ Embeddings
@@ -67,7 +56,7 @@
 - **GPT-4o-mini**
   - [ ] AQUA-RAT with GPT-4o-mini W/ COT. Acc: ``` ```
   - [ ] AQUA-RAT with GPT-4o-mini W/ Non-COT. Acc: ``` ```
-  - [ ] AQUA-RAT with GPT-4o-mini W/ BERT. Acc: ``` ```
+  - [ ] AQUA-RAT with GPT-4o-mini W/ BERT
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
   - [ ] AQUA-RAT with GPT-4o-mini W/ Embeddings
@@ -79,13 +68,13 @@
 
 - **phi-3**
   - [ ] AQUA-RAT with phi-3 W/ Non-COT. Acc: ``` ```
-  - [ ] AQUA-RAT with phi-3 W/ BERT. Acc: ``` ```
+  - [ ] AQUA-RAT with phi-3 W/ BERT
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
   - [ ] AQUA-RAT with phi-3 W/ Embeddings
     - [ ] embeddings-3 large 5K. Acc: ``` ```
     - [ ] embeddings-3 large 10K. Acc: ``` ```
-  - [ ] AQUA-RAT with phi-3 W/ all-MiniLM-L6-v2. Acc: ``` ```
+  - [ ] AQUA-RAT with phi-3 W/ all-MiniLM-L6-v2
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
 
@@ -93,7 +82,7 @@
 - **GPT-3.5 Turbo (All)**
   - [ ] SVAMP with GPT-3.5 Turbo W/ COT. Acc: ``` ```
   - [ ] SVAMP with GPT-3.5 Turbo W/ Non-COT. Acc: ``` ```
-  - [ ] SVAMP with GPT-3.5 Turbo W/ BERT. Acc: ``` ```
+  - [ ] SVAMP with GPT-3.5 Turbo W/ BERT
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
   - [ ] SVAMP with GPT-3.5 Turbo W/ Embeddings
@@ -127,6 +116,18 @@
   - [ ] SVAMP with phi-3 W/ all-MiniLM-L6-v2
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
+
+## What's Missing
+- [ ] Related Information
+- [ ] Results
+- [ ] Discussion
+- [ ] Conclusion
+- [ ] Future Work
+
+## Links
+- [Overleaf Link](https://www.overleaf.com/project/6556c5d2c63beffb0d5ca1d8)  <!-- Replace with actual link -->
+- [Code]([LatestCode-gsm8k.ipynb](https://colab.research.google.com/drive/1T1aH1maYGtT9ewOMmI50qxdpSv4ADFn-?usp=sharing))
+
 
 ## Instructions
 - **Datasets**: GSM8k, SVAMP, AQ-RAT
