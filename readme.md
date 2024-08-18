@@ -14,7 +14,7 @@
 
 ### GSM8k
 - **GPT-3.5 Turbo (All)** 
-  - [-] GSM8k with GPT-3.5 Turbo W/ COT → 0.7908
+  - [x] GSM8k with GPT-3.5 Turbo W/ COT → 0.7908
   - [ ] GSM8k with GPT-3.5 Turbo W/ Non-COT
 - **GPT-3.5 Turbo with BERT**
   - [ ] 5K
