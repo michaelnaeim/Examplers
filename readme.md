@@ -13,18 +13,18 @@
 ## Experiments
 
 ### GSM8k
-- **GPT-3.5 Turbo (All)** 
-  - [x] GSM8k with GPT-3.5 Turbo W/ COT → 0.7908
+- **GPT-3.5 Turbo**
+  - [ ] GSM8k with GPT-3.5 Turbo W/ COT
   - [ ] GSM8k with GPT-3.5 Turbo W/ Non-COT
-- **GPT-3.5 Turbo with BERT**
-  - [ ] 5K
-  - [ ] 10K
-- **GPT-3.5 Turbo with Embeddings**
-  - [ ] embeddings-3 large 5K
-  - [ ] embeddings-3 large 10K
-- **GPT-3.5 Turbo with all-MiniLM-L6-v2**
-  - [ ] 5K
-  - [ ] 10K
+  - [ ] GSM8k with GPT-3.5 Turbo W/ BERT
+    - [ ] 5K
+    - [ ] 10K
+  - [ ] GSM8k with GPT-3.5 Turbo W/ Embeddings
+    - [ ] embeddings-3 large 5K
+    - [ ] embeddings-3 large 10K
+  - [ ] GSM8k with GPT-3.5 Turbo W/ all-MiniLM-L6-v2
+    - [ ] 5K
+    - [ ] 10K
 
 - **GPT-4o-mini**
   - [ ] GSM8k with GPT-4o-mini W/ COT
@@ -135,10 +135,4 @@
 - **Embeddings**: text-embedding-3 large, all-MiniLM-L6-v2
 - **K**: 5, 10
 
-## Unused Folders
-- **Implementation for every model/dataset/embedding**: `Implementations.ipynb`
-- **AQ-RAT**: `LatestCode-aq-rat.ipynb`
-- **SVAMP**: `LatestCode-svamp.ipynb`
-- **Base code**: `TestingGSM8k.ipynb`
-- **Cleaned data for each dataset**: `COT (1)`
-- **Old Data**: `Data`
+## Unused Folders refer to [this link](https://docs.google.com/document/d/1FmGi_OMaKwEh1aoDscGmYDxdoNNEXYw74-kwaMHUnqI/edit)
