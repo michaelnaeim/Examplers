@@ -1,16 +1,23 @@
 ## Experiments
 
+Here's the adjusted version with the additional experiments:
+
+## Experiments
+
 ### GSM8k
 - **GPT-3.5 Turbo**
   - [x] GSM8k with GPT-3.5 Turbo W/ COT. Acc: ```0.7908```
   - [x] GSM8k with GPT-3.5 Turbo W/ Non-COT. Acc: ```0.7655```
   - [ ] GSM8k with GPT-3.5 Turbo W/ BERT
-    - [ ] 5K. Acc: ```0.8120```
+    - [x] 5K. Acc: ```0.8120```
     - [ ] 10K. Acc: ``` ```
   - [ ] GSM8k with GPT-3.5 Turbo W/ Embeddings
     - [ ] embeddings-3 large 5K. Acc: ``` ```
     - [ ] embeddings-3 large 10K. Acc: ``` ```
   - [ ] GSM8k with GPT-3.5 Turbo W/ all-MiniLM-L6-v2
+    - [ ] 5K. Acc: ``` ```
+    - [ ] 10K. Acc: ``` ```
+  - [ ] GSM8k with GPT-3.5 Turbo W/ phi-3
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
 
@@ -26,16 +33,7 @@
   - [ ] GSM8k with GPT-4o-mini W/ all-MiniLM-L6-v2
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
-
-- **phi-3**
-  - [ ] GSM8k with phi-3 W/ Non-COT. Acc: ``` ```
-  - [ ] GSM8k with phi-3 W/ BERT
-    - [ ] 5K. Acc: ``` ```
-    - [ ] 10K. Acc: ``` ```
-  - [ ] GSM8k with phi-3 W/ Embeddings
-    - [ ] embeddings-3 large 5K. Acc: ``` ```
-    - [ ] embeddings-3 large 10K. Acc: ``` ```
-  - [ ] GSM8k with phi-3 W/ all-MiniLM-L6-v2
+  - [ ] GSM8k with GPT-4o-mini W/ phi-3
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
 
@@ -52,6 +50,9 @@
   - [ ] AQUA-RAT with GPT-3.5 Turbo W/ all-MiniLM-L6-v2
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
+  - [ ] AQUA-RAT with GPT-3.5 Turbo W/ phi-3
+    - [ ] 5K. Acc: ``` ```
+    - [ ] 10K. Acc: ``` ```
 
 - **GPT-4o-mini**
   - [ ] AQUA-RAT with GPT-4o-mini W/ COT. Acc: ``` ```
@@ -65,16 +66,7 @@
   - [ ] AQUA-RAT with GPT-4o-mini W/ all-MiniLM-L6-v2
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
-
-- **phi-3**
-  - [ ] AQUA-RAT with phi-3 W/ Non-COT. Acc: ``` ```
-  - [ ] AQUA-RAT with phi-3 W/ BERT
-    - [ ] 5K. Acc: ``` ```
-    - [ ] 10K. Acc: ``` ```
-  - [ ] AQUA-RAT with phi-3 W/ Embeddings
-    - [ ] embeddings-3 large 5K. Acc: ``` ```
-    - [ ] embeddings-3 large 10K. Acc: ``` ```
-  - [ ] AQUA-RAT with phi-3 W/ all-MiniLM-L6-v2
+  - [ ] AQUA-RAT with GPT-4o-mini W/ phi-3
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
 
@@ -91,6 +83,9 @@
   - [ ] SVAMP with GPT-3.5 Turbo W/ all-MiniLM-L6-v2
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
+  - [ ] SVAMP with GPT-3.5 Turbo W/ phi-3
+    - [ ] 5K. Acc: ``` ```
+    - [ ] 10K. Acc: ``` ```
 
 - **GPT-4o-mini**
   - [ ] SVAMP with GPT-4o-mini W/ COT. Acc: ``` ```
@@ -104,16 +99,7 @@
   - [ ] SVAMP with GPT-4o-mini W/ all-MiniLM-L6-v2
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
-
-- **phi-3**
-  - [ ] SVAMP with phi-3 W/ Non-COT. Acc: ``` ```
-  - [ ] SVAMP with phi-3 W/ BERT. Acc: ``` ```
-    - [ ] 5K. Acc: ``` ```
-    - [ ] 10K. Acc: ``` ```
-  - [ ] SVAMP with phi-3 W/ Embeddings
-    - [ ] embeddings-3 large 5K. Acc: ``` ```
-    - [ ] embeddings-3 large 10K. Acc: ``` ```
-  - [ ] SVAMP with phi-3 W/ all-MiniLM-L6-v2
+  - [ ] SVAMP with GPT-4o-mini W/ phi-3
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
 
