@@ -6,15 +6,14 @@
 - [ ] Future Work
 
 ## Links
-- [Overleaf Link](#)  <!-- Replace with actual link -->
-- [Code](LatestCode-gsm8k.ipynb)
-- [Results](New Data)  <!-- Replace with actual link -->
+- [Overleaf Link](https://www.overleaf.com/project/6556c5d2c63beffb0d5ca1d8)  <!-- Replace with actual link -->
+- [Code]([LatestCode-gsm8k.ipynb](https://colab.research.google.com/drive/1T1aH1maYGtT9ewOMmI50qxdpSv4ADFn-?usp=sharing))
 
 ## Experiments
 
 ### GSM8k
 - **GPT-3.5 Turbo**
-  - [ ] GSM8k with GPT-3.5 Turbo W/ COT
+  - [x] GSM8k with GPT-3.5 Turbo W/ COT -> 0.7908
   - [ ] GSM8k with GPT-3.5 Turbo W/ Non-COT
   - [ ] GSM8k with GPT-3.5 Turbo W/ BERT
     - [ ] 5K
