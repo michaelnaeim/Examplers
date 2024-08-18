@@ -26,7 +26,7 @@ Here's the adjusted version with the additional experiments:
   - [x] GSM8k with GPT-4o-mini W/ Non-COT. Acc: ```0.9272```
   - [ ] GSM8k with GPT-4o-mini W/ BERT
     - [ ] 5K. Acc: ``` ```
-    - [ ] 10K. Acc: ``` ```
+    - [ ] 10K. Acc: ```0.9295```
   - [ ] GSM8k with GPT-4o-mini W/ Embeddings
     - [ ] embeddings-3 large 5K. Acc: ``` ```
     - [ ] embeddings-3 large 10K. Acc: ``` ```
