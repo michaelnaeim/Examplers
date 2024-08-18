@@ -112,7 +112,7 @@ Here's the adjusted version with the additional experiments:
 
 ## Links
 - [Overleaf Link](https://www.overleaf.com/project/6556c5d2c63beffb0d5ca1d8)  <!-- Replace with actual link -->
-- [Code]([LatestCode-gsm8k.ipynb](https://colab.research.google.com/drive/1T1aH1maYGtT9ewOMmI50qxdpSv4ADFn-?usp=sharing))
+- [Code](LatestCode-gsm8k.ipynb](https://colab.research.google.com/drive/1T1aH1maYGtT9ewOMmI50qxdpSv4ADFn-?usp=sharing)
 
 
 ## Instructions
