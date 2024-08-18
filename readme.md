@@ -3,7 +3,7 @@
 ### GSM8k
 - **GPT-3.5 Turbo**
   - [x] GSM8k with GPT-3.5 Turbo W/ COT. Acc: ```0.7908```
-  - [ ] GSM8k with GPT-3.5 Turbo W/ Non-COT. Acc: ``` ```
+  - [ ] GSM8k with GPT-3.5 Turbo W/ Non-COT. Acc: ```0.7655```
   - [ ] GSM8k with GPT-3.5 Turbo W/ BERT
     - [ ] 5K. Acc: ``` ```
     - [ ] 10K. Acc: ``` ```
