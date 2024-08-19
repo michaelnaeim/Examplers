@@ -8,9 +8,9 @@ Here's the adjusted version with the additional experiments:
 - **GPT-3.5 Turbo**
   - [x] GSM8k with GPT-3.5 Turbo W/ COT. Acc: ```0.7908```
   - [x] GSM8k with GPT-3.5 Turbo W/ Non-COT. Acc: ```0.7655```
-  - [ ] GSM8k with GPT-3.5 Turbo W/ BERT
+  - [x] GSM8k with GPT-3.5 Turbo W/ BERT
     - [x] 5K. Acc: ```0.8120```
-    - [ ] 10K. Acc: ``` ```
+    - [x] 10K. Acc: ```0.8158```
   - [ ] GSM8k with GPT-3.5 Turbo W/ Embeddings
     - [ ] embeddings-3 large 5K. Acc: ``` ```
     - [ ] embeddings-3 large 10K. Acc: ```0.8082```
