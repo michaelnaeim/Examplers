@@ -19,7 +19,7 @@ Here's the adjusted version with the additional experiments:
     - [x] 10K. Acc: ```0.8052```
   - [ ] GSM8k with GPT-3.5 Turbo W/ phi-3
     - [ ] 5K. Acc: ``` ```
-    - [ ] 10K. Acc: ``` ```
+    - [ ] 10K. Acc: ```0.8089```
 
 - **GPT-4o-mini**
   - [x] GSM8k with GPT-4o-mini W/ COT. Acc: ```0.9272```
