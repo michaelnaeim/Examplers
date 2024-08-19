@@ -15,7 +15,7 @@ Here's the adjusted version with the additional experiments:
     - [ ] embeddings-3 large 5K. Acc: ``` ```
     - [ ] embeddings-3 large 10K. Acc: ```0.8082```
   - [ ] GSM8k with GPT-3.5 Turbo W/ all-MiniLM-L6-v2
-    - [ ] 5K. Acc: ``` ```
+    - [x] 5K. Acc: ```0.8180```
     - [ ] 10K. Acc: ``` ```
   - [ ] GSM8k with GPT-3.5 Turbo W/ phi-3
     - [ ] 5K. Acc: ``` ```
