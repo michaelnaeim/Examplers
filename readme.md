@@ -7,26 +7,26 @@ Here's the adjusted version with the additional experiments:
 ### GSM8k
 - **GPT-3.5 Turbo**
   - [x] GSM8k with GPT-3.5 Turbo W/ COT. Acc: ```0.7908```
-  - [x] GSM8k with GPT-3.5 Turbo W/ Non-COT. Acc: ``` ```
+  - [x] GSM8k with GPT-3.5 Turbo W/ Non-COT. Acc: ``` ``` - HAVE ALREADY
   - [x] GSM8k with GPT-3.5 Turbo W/ BERT
     - [x] 5K. Acc: ```0.8120```
-    - [x] 10K. Acc: ``` ```
+    - [x] 10K. Acc: ``` ```- DONE
   - [x] GSM8k with GPT-3.5 Turbo W/ Embeddings
     - [x] embeddings-3 large 5K. Acc: ```0.8052```
-    - [x] embeddings-3 large 10K. Acc: ``` ```
+    - [x] embeddings-3 large 10K. Acc: ``` ``` -DONE
   - [x] GSM8k with GPT-3.5 Turbo W/ all-MiniLM-L6-v2
     - [x] 5K. Acc: ```0.8180```
     - [x] 10K. Acc: ```0.8052```
   - [ ] GSM8k with GPT-3.5 Turbo W/ phi-3
-    - [ ] 5K. Acc: ``` ```
+    - [ ] 5K. Acc: ``` ``` -MISSING
     - [ ] 10K. Acc: ```0.8089```
 
 - **GPT-4o-mini**
   - [x] GSM8k with GPT-4o-mini W/ COT. Acc: ```0.9272```
   - [x] GSM8k with GPT-4o-mini W/ Non-COT. Acc: ```0.9272```
   - [x] GSM8k with GPT-4o-mini W/ BERT
-    - [x] 5K. Acc: ```0.9356```
-    - [x] 10K. Acc: ``` ```
+    - [x] 5K. Acc: ```0.9356``` - DONE
+    - [x] 10K. Acc: ``` ```- DONE
   - [x] GSM8k with GPT-4o-mini W/ Embeddings
     - [x] embeddings-3 large 5K. Acc: ``` ```
     - [x] embeddings-3 large 10K. Acc: ``` ```
